@@ -13,10 +13,20 @@ Todo list:
 
 # Landing page (part 2) - Finish HTML structure and start basic styling
 ✔ create landing page labels into social > social-item > social-label @done (2017-10-23 23:39:09)
-☐ create input box-radio list next to box-message which contains a box-link
-☐ group input type radio
-☐ link label for attribute to input id attribute
-☐ create a reset input radio followed by a box-message and box-header which contains a box-info and a box-close label
+✔ create input box-radio list next to box-message which contains a box-link @done (2017-10-29 17:27:34)
+✔ group input type radio @done (2017-10-29 17:27:34)
+✔ link label for attribute to input id attribute @done (2017-10-29 17:27:35)
+✔ create a reset input radio followed by a box-message and box-header which contains a box-info and a box-close label @done (2017-10-29 17:27:36)
 
-# Landing page (part 3)
-☐ style landing page
+# Landing page (part 3) - style landing page
+- display flex
+- 100% height trick
+- text transformation
+
+✔ make the .landing-page full height @done (2017-11-1 22:53:02)
+✔ html and body full height and font size @done (2017-11-1 22:53:05)
+✔ .landing-page__wrapper center content @done (2017-11-1 22:53:55)
+✔ .landing-page__name font size and UPPERCASE letters @done (2017-11-1 22:55:13)
+✔ .landing-page__title font size and Capitalize words @done (2017-11-1 22:55:54)
+✔ .landing-page__social horizontal align children and move away from name and title @done (2017-11-1 22:57:13)
+✔ .landing-page__label font size, color and space out @done (2017-11-1 23:02:06)
