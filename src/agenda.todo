@@ -45,3 +45,52 @@ Todo list:
 ✔ make the bottom right corner of the .landing-page__box-close rounded @done (2017-11-21 23:47:57)
 ✔ set the color of .landing-page__box-link and .landing-page__box-message to white @done (2017-11-21 23:50:34)
 ✔ style .landing-page__box-link @done (2017-11-21 23:55:06)
+
+# about me (part 1)
+✔ create the pug and sass files @done (2017-12-9 20:06:50)
+✔ make them work in the project @done (2017-12-9 20:06:56)
+✔ prepare CV files and image for avatar @done (2017-12-10 17:15:51)
+✔ create the following variables: @done (2017-12-10 17:15:53)
+    header
+    imagePath
+    myFullName
+    myTitle
+    slogan
+    achievement {
+        title,
+        content
+    }
+    coolStuff {
+        title,
+        linkList: [
+            { url, icon, text }
+        ]
+    }
+☐ print the coolStuff title and change it to "grab cool stuff"
+☐ wrap the buttons in a .about-me__link-list div
+☐ stage all and commit with "create the structure of the about me section"
+
+# style the about me section
+☐ style the .about-me with a radial gradient of ellipse type using #fb9e91 and #e97568 colours
+
+☐ make the .about-me__header of white colour and adjust padding, font size and margin bottom.
+
+☐ make .about-me__avatar round, like a circle, set the width to 100% and border color to #e97568
+
+☐ adjust the width of .about-me__avatar-wrapper as 100% doesn't look nice and set the border to white with transparency
+
+☐ use ::after to add one more border and position it outside by 1.5rem
+
+☐ style the .about-me__full-name and .about-me__title on the center, increase font size, adjust padding and set color to white
+
+☐ set the align to justify for the .about-me__slogan, adjust the padding, line height, font-size and text indent.
+
+☐ align the button links in .about-me__link-list to center
+
+☐ fix the icon issue
+
+☐ set the color of the border of the link button to #d1adc2, color to #7ea1a6, background to white and align the span tags using display flex. Increase the font size and make the corners rounded. Remove the underling of the anchor tag.
+
+☐ se the .about-me__link-description alignment to center, font size to 1.5rem and the line height to 1.5
+
+☐ stage all and commit with "style the about me section"
