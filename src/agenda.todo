@@ -66,31 +66,31 @@ Todo list:
             { url, icon, text }
         ]
     }
-☐ print the coolStuff title and change it to "grab cool stuff"
-☐ wrap the buttons in a .about-me__link-list div
-☐ stage all and commit with "create the structure of the about me section"
+✔ print the coolStuff title and change it to "grab cool stuff" @done (2017-12-10 20:08:39)
+✔ wrap the buttons in a .about-me__link-list div @done (2017-12-10 20:09:21)
+✔ stage all and commit with "create the structure of the about me section" @done (2017-12-10 20:12:12)
 
 # style the about me section
-☐ style the .about-me with a radial gradient of ellipse type using #fb9e91 and #e97568 colours
+✔ style the .about-me with a radial gradient of ellipse type using #fb9e91 and #e97568 colours @done (2017-12-10 20:14:24)
 
-☐ make the .about-me__header of white colour and adjust padding, font size and margin bottom.
+✔ make the .about-me__header of white colour and adjust padding, font size and margin bottom. @done (2017-12-10 20:16:53)
 
-☐ make .about-me__avatar round, like a circle, set the width to 100% and border color to #e97568
+✔ make .about-me__avatar round, like a circle, set the width to 100% and border color to #e97568 @done (2017-12-10 20:19:03)
 
-☐ adjust the width of .about-me__avatar-wrapper as 100% doesn't look nice and set the border to white with transparency
+✔ adjust the width of .about-me__avatar-wrapper as 100% doesn't look nice and set the border to white with transparency @done (2017-12-10 20:20:55)
 
-☐ use ::after to add one more border and position it outside by 1.5rem
+✔ use ::after to add one more border and position it outside by 1.5rem @done (2017-12-10 20:24:03)
 
-☐ style the .about-me__full-name and .about-me__title on the center, increase font size, adjust padding and set color to white
+✔ style the .about-me__full-name and .about-me__title on the center, increase font size, adjust padding and set color to white @done (2017-12-10 20:28:01)
 
-☐ set the align to justify for the .about-me__slogan, adjust the padding, line height, font-size and text indent.
+✔ set the align to justify for the .about-me__slogan, adjust the padding, line height, font-size and text indent. @done (2017-12-10 20:29:29)
 
-☐ align the button links in .about-me__link-list to center
+✔ align the button links in .about-me__link-list to center @done (2017-12-10 20:30:42)
 
-☐ fix the icon issue
+✔ fix the icon issue @done (2017-12-10 20:30:44)
 
-☐ set the color of the border of the link button to #d1adc2, color to #7ea1a6, background to white and align the span tags using display flex. Increase the font size and make the corners rounded. Remove the underling of the anchor tag.
+✔ set the color of the border of the link button to #d1adc2, color to #7ea1a6, background to white and align the span tags using display flex. Increase the font size and make the corners rounded. Remove the underling of the anchor tag. @done (2017-12-10 20:37:32)
 
-☐ se the .about-me__link-description alignment to center, font size to 1.5rem and the line height to 1.5
+✔ se the .about-me__link-description alignment to center, font size to 1.5rem and the line height to 1.5 @done (2017-12-10 20:39:14)
 
 ☐ stage all and commit with "style the about me section"
