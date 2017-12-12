@@ -93,4 +93,23 @@ Todo list:
 
 ✔ se the .about-me__link-description alignment to center, font size to 1.5rem and the line height to 1.5 @done (2017-12-10 20:39:14)
 
-☐ stage all and commit with "style the about me section"
+✔ stage all and commit with "style the about me section" @done (2017-12-11 22:06:35)
+
+# start the award section and refactor
+
+✔ create the pug and scss files and link them to the project @done (2017-12-11 22:35:28)
+✔ create the .award__header and style it with a color of #b2c7e2 @done (2017-12-11 22:37:34)
+✔ refactor the header CSS into reusable code @done (2017-12-11 22:40:46)
+✔ refactor colors into a config and use nice variable names for colors @done (2017-12-12 21:35:24)
+☐ commit the changes with the message "refactor the colors and header section"
+
+# update the award section structure
+☐ create the variables title, description, location and date
+☐ convert them to properties of an object
+☐ create another object with different values for the properties
+☐ add the objects into an array
+☐ loop the list and map the properties to icons:
+    ☐ trophy to title
+    ☐ info to description
+    ☐ map2 to location
+    ☐ calendar to date
