@@ -113,24 +113,24 @@ Todo list:
     ✔ info to description @done (2017-12-13 01:21:49)
     ✔ map2 to location @done (2017-12-13 01:21:49)
     ✔ calendar to date @done (2017-12-13 01:21:50)
-☐ commit the latest changes with the message "update the structure of awards section"
+✔ commit the latest changes with the message "update the structure of awards section" @done (2017-12-13 22:05:08)
 
 # style the awards section
 
-☐ make the title text thicker
+✔ make the title text thicker @done (2017-12-13 22:05:55)
 
-☐ create spacing among the cards, set the font size to 1.2rem and line height to 1.5rem.
+✔ create spacing among the cards, set the font size to 1.2rem and line height to 1.5rem. @done (2017-12-13 22:07:47)
 
-☐ set the card border bottom color to #415a67
+✔ set the card border bottom color to #415a67 @done (2017-12-13 22:10:52)
 
-☐ set the border top color to #415a67 for all first children of the card
+✔ set the border top color to #415a67 for all first children of the card @done (2017-12-13 22:10:57)
 
-☐ set the .award__icon width to a quarter and others to three quarters
+✔ set the .award__icon width to a quarter and others to three quarters @done (2017-12-13 22:15:41)
 
-☐ set the icon background color to #42bcbd, #d76d93, #7e4b83 and #eacb5f and make the info text italic
+✔ set the icon background color to #42bcbd, #d76d93, #7e4b83 and #eacb5f and make the info text italic @done (2017-12-13 22:20:30)
 
-☐ set the icon padding and font size to 2.5rem and color to white
+✔ set the icon padding and font size to 2.5rem and color to white @done (2017-12-13 22:21:47)
 
-☐ play with the height and align the text inside the divs that are not icons
+✔ play with the height and align the text inside the divs that are not icons @done (2017-12-13 22:24:59)
 
-☐ commit the changes with the nice message "style the awards section"
+✔ commit the changes with the nice message "style the awards section" @done (2017-12-13 22:25:09)
