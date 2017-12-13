@@ -101,15 +101,36 @@ Todo list:
 ✔ create the .award__header and style it with a color of #b2c7e2 @done (2017-12-11 22:37:34)
 ✔ refactor the header CSS into reusable code @done (2017-12-11 22:40:46)
 ✔ refactor colors into a config and use nice variable names for colors @done (2017-12-12 21:35:24)
-☐ commit the changes with the message "refactor the colors and header section"
+✔ commit the changes with the message "refactor the colors and header section" @done (2017-12-12 22:01:29)
 
 # update the award section structure
-☐ create the variables title, description, location and date
-☐ convert them to properties of an object
-☐ create another object with different values for the properties
-☐ add the objects into an array
-☐ loop the list and map the properties to icons:
-    ☐ trophy to title
-    ☐ info to description
-    ☐ map2 to location
-    ☐ calendar to date
+✔ create the variables title, description, location and date @done (2017-12-12 22:09:23)
+✔ convert them to properties of an object @done (2017-12-12 22:09:26)
+✔ create another object with different values for the properties @done (2017-12-12 22:09:30)
+✔ add the objects into an array @done (2017-12-12 22:09:33)
+✔ loop the list and map the properties to icons: @done (2017-12-13 01:21:48)
+    ✔ trophy to title @done (2017-12-13 01:21:48)
+    ✔ info to description @done (2017-12-13 01:21:49)
+    ✔ map2 to location @done (2017-12-13 01:21:49)
+    ✔ calendar to date @done (2017-12-13 01:21:50)
+☐ commit the latest changes with the message "update the structure of awards section"
+
+# style the awards section
+
+☐ make the title text thicker
+
+☐ create spacing among the cards, set the font size to 1.2rem and line height to 1.5rem.
+
+☐ set the card border bottom color to #415a67
+
+☐ set the border top color to #415a67 for all first children of the card
+
+☐ set the .award__icon width to a quarter and others to three quarters
+
+☐ set the icon background color to #42bcbd, #d76d93, #7e4b83 and #eacb5f and make the info text italic
+
+☐ set the icon padding and font size to 2.5rem and color to white
+
+☐ play with the height and align the text inside the divs that are not icons
+
+☐ commit the changes with the nice message "style the awards section"
