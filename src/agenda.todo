@@ -136,11 +136,11 @@ Todo list:
 ✔ commit the changes with the nice message "style the awards section" @done (2017-12-13 22:25:09)
 
 # build the skills section and style it
-☐ create the "what-can-i-do" pug and scss files and wire them up to the project
-☐ create the header and whatCanIDoList variables, each whatCanIDo object having a title and a skillList
-☐ create the structure with an id and a class of what-can-i-do
-☐ print the header and do the loops
-☐ style the header with periwinkle gray color
-☐ style the .what-i-can-do__title with fiord color, on the center, add some padding and increase the font size
-☐ use flex on .what-i-can-do__list, make the skills wrap and center them
+✔ create the "what-can-i-do" pug and scss files and wire them up to the project @done (2017-12-14 22:08:41)
+✔ create the header and whatCanIDoList variables, each whatCanIDo object having a title and a skillList @done (2017-12-14 22:16:57)
+✔ create the structure with an id and a class of what-can-i-do @done (2017-12-14 22:17:03)
+✔ print the header and do the loops @done (2017-12-14 22:17:07)
+✔ style the header with periwinkle gray color @done (2017-12-14 22:19:34)
+✔ style the .what-i-can-do__title with fiord color, on the center, add some padding and increase the font size @done (2017-12-14 22:22:28)
+✔ use flex on .what-i-can-do__list, make the skills wrap and center them @done (2017-12-14 22:23:57)
 ☐ set some padding to .what-i-can-do__skill, the border color to periwinkle gray, add some space among them, increase a bit the font size, make sure the witespace doesn't break and add border radius
