@@ -33,6 +33,17 @@
                 `Assure that all user input is validated before submitting to back-end services`,
                 `Collaborate with other team members and stakeholders`
             ]
+        },
+        {
+            title: 'Web developer1',
+            company: 'Super CodeTap1',
+            date: '2110 Oct - 2117 Nov',
+            responsabilityList: [
+                `Develop new user-facing features`,
+                `Optimise applications for maximum speed and scalability`,
+                `Assure that all user input is validated before submitting to back-end services`,
+                `Collaborate with other team members and stakeholders`
+            ]
         }
     ];
 //- view, presentation
@@ -43,11 +54,14 @@
 #experience
 .experience
     .experience__header=header
-    input(type="radio", name="same-name", id="experience-default")
-    label(for="experience-default") &times;
+    input.experience__input(type="radio", name="same-name", id="experience-default")
+    
     each experience, key in experienceList
         input.experience__input(type="radio", name="same-name", id=`experience-id-${key}`)
-        label.experience__title(for=`experience-id-${key}`)=experience.title
+        label.experience__title(for=`experience-id-${key}`)
+            | #{experience.title}
+            label(for="experience-default")
+                span.my-cv__icon--plus
         .experience__details
             .experience__top
                 .experience__date=experience.date
