@@ -11,11 +11,16 @@
     color: $color-periwinkle-gray;
     @extend %header;
 }
+.experience__header {
+    color: $color-periwinkle-gray;
+    @extend %header;
+}
 
 .experience__title {
     background-color: $color-gumbo;
     color: $color-white;
-    display: block;
+    display: flex;
+    justify-content: space-between;
     font-size: 1.8rem;
     padding: 2rem;
     cursor: pointer;
@@ -59,7 +64,7 @@
 }
 
 .my-cv__icon--plus {
-    float: right;
+    // float: right;
     pointer-events: none;
 }
 
